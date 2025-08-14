@@ -44,4 +44,21 @@ It’s a YAML file stored at your project’s root that contains:
    If your AI tool supports file reading, point it to `ai-context.yaml`.  
    If not, paste its contents or link to it and mention which profile to use.
 
-**Example prompt**:
+   ---
+
+## Benefits
+
+- **Consistency** – Every AI interaction uses the same constraints and terminology.
+- **Collaboration** – Teams can discuss and improve the file via PRs.
+- **Transparency** – Context is versioned alongside the code.
+- **Portability** – Works with any AI provider or coding assistant.
+
+---
+
+## Contributing
+
+Developers who want to **improve or extend this file are very welcome**!  
+- Suggest new sections, better wording, or additional examples.
+- Open an issue or pull request with your changes.
+- Keep it practical and concise.
+- Never store secrets or sensitive data.
